@@ -1,0 +1,11 @@
+3*3=9
+6-3=3
+2*3=6
+3/0=loi chia cho 0
+3/0=loi chia cho 0
+3/0 = loi chia cho 0
+5-3 = 2
+8/0 = loi chia cho 0
+6-3 = 3
+3/0 = loi chia cho 0
+5-3 = 2
